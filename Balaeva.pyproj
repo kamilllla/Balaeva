@@ -49,6 +49,7 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\images\BLOCK.jpg" />
     <Content Include="static\images\Bottle-logo.svg.png" />
     <Content Include="static\images\logo_nav.png" />
     <Content Include="static\images\python-rest-api-example.png" />

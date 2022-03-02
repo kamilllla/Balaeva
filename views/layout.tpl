@@ -21,11 +21,6 @@
                 <a href="/" class="navbar-brand">Blockchain</a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="/home">Home</a></li>
-                    <li><a href="/about">Other theme</a></li>
-                    <li><a href="/contact">News of WorldSkills</a></li>
-                </ul>
             </div>
         </div>
     </div>
